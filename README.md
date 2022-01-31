@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80eaea0c-58c3-42c9-92ff-6bb81a865d9f/deploy-status)](https://app.netlify.com/sites/sarika/deploys)
 
 # HTML and CSS Assessment
 
