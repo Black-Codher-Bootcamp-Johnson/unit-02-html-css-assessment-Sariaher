@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\unit-03-javascript-starter-files-Sariaher\\session-3"
+		},
+		{
+			"path": "..\\..\\..\\unit-03-javascript-starter-files-Sariaher\\session-2"
+		},
+		{
+			"path": "..\\..\\..\\unit-03-javascript-starter-files-Sariaher\\session-5"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\unit-03-javascript-starter-files-Sariaher\\session-6"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "black-coder"
+	}
+}
